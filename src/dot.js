@@ -12,7 +12,7 @@ export default class Dot extends Component {
 
   static defaultProps = {
     color: 'rgba(192, 192, 192, 1)',
-    diameter: 10,
+    diameter: 8,
   };
 
   render() {
