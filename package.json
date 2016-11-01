@@ -8,8 +8,8 @@
     "ios",
     "android"
   ],
-  "version": "0.3.0",
-  "description": "Page Swiper component for React Native.",
+  "version": "0.3.1",
+  "description": "Page Swiper component for React Native. (Vestiacom's fork)",
   "main": "src/index.js",
   "engines": {
     "node": ">=4"
@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fixt/react-native-page-swiper.git"
+    "url": "git+https://github.com/hubciorz/react-native-page-swiper.git"
   },
   "author": "Christopher Garvis <cgarvis@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fixt/react-native-page-swiper/issues"
+    "url": "https://github.com/hubciorz/react-native-page-swiper/issues"
   },
-  "homepage": "https://github.com/fixt/react-native-page-swiper#readme",
+  "homepage": "https://github.com/hubciorz/react-native-page-swiper#readme",
   "peerDependencies": {
     "react": "0.14.x || 15.x.x",
     "react-native": ">=0.18.0"
