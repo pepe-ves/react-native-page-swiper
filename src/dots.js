@@ -2,6 +2,7 @@
 
 import React, { Component } from 'react';
 import {
+  ViewPropTypes,
   StyleSheet,
   View
 } from 'react-native';
@@ -13,7 +14,7 @@ export default class Dots extends Component {
   static propTypes = {
     total: PropTypes.number,
     active: PropTypes.number,
-    style: View.propTypes.style,
+    style: ViewPropTypes.style,
   };
 
   static defaultProps = {
